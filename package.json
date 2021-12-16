@@ -2,7 +2,7 @@
 	"name": "frontendweb-thomas-2122-remcodesmedt",
 	"version": "0.1.0",
 	"private": true,
-	"homepage": "https://remcodesmedt.github.io/frontendweb-thomas-2122-remcodesmedt/",
+	"homepage": "https://remcodesmedt.github.io/frontend-react-movies-public/",
 	"dependencies": {
 		"@chakra-ui/react": "^1.7.1",
 		"@emotion/react": "^11",
